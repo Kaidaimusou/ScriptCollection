@@ -8,3 +8,6 @@
 
 - linepush.py
   - Messaging APIを使ってラインにメッセージを送信する。
+
+- EntoJa.py
+  - コピー&ペーストを行うと翻訳が行われる。
